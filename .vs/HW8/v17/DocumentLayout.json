@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr. X\\source\\repos\\HW8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\entities\\universitycourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\entities\\universitycourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\contract\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\contract\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\contract\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\contract\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\database\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\database\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\enums\\studentstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\enums\\studentstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|c:\\users\\mr. x\\source\\repos\\hw8\\hw8\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922A4AE2-7503-4E30-9758-3F360AE5771D}|HW8\\HW8.csproj|solutionrelative:hw8\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "HW8\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "HW8\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:25:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Contract\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "HW8\\Contract\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Contract\\ITeacherRepository.cs",
+              "RelativeToolTip": "HW8\\Contract\\ITeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:24:02.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "HW8\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "HW8\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:43:10.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICourserepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Contract\\ICourserepository.cs",
+              "RelativeDocumentMoniker": "HW8\\Contract\\ICourserepository.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Contract\\ICourserepository.cs",
+              "RelativeToolTip": "HW8\\Contract\\ICourserepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:42:10.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "HW8\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Services\\CourseService.cs",
+              "RelativeToolTip": "HW8\\Services\\CourseService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:40:56.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HW8\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HW8\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAawFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:54:11.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Contract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HW8\\Contract\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Contract\\IUserRepository.cs",
+              "RelativeToolTip": "HW8\\Contract\\IUserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:52:10.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "HW8\\Enums\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "HW8\\Enums\\RoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:13:20.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Userservices.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Services\\Userservices.cs",
+              "RelativeDocumentMoniker": "HW8\\Services\\Userservices.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Services\\Userservices.cs",
+              "RelativeToolTip": "HW8\\Services\\Userservices.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv78AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:50:10.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Database\\SeedData.cs",
+              "RelativeDocumentMoniker": "HW8\\Database\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Database\\SeedData.cs",
+              "RelativeToolTip": "HW8\\Database\\SeedData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCAAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:26:12.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "HW8\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\Teacher.cs",
+              "RelativeToolTip": "HW8\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:17:01.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\Operator.cs",
+              "RelativeDocumentMoniker": "HW8\\Entities\\Operator.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\Operator.cs",
+              "RelativeToolTip": "HW8\\Entities\\Operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:16:36.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UniversityCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\UniversityCourse.cs",
+              "RelativeDocumentMoniker": "HW8\\Entities\\UniversityCourse.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\UniversityCourse.cs",
+              "RelativeToolTip": "HW8\\Entities\\UniversityCourse.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADgvyEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:56:40.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\Result.cs",
+              "RelativeDocumentMoniker": "HW8\\Entities\\Result.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\Result.cs",
+              "RelativeToolTip": "HW8\\Entities\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:29:23.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Database\\Storage.cs",
+              "RelativeDocumentMoniker": "HW8\\Database\\Storage.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Database\\Storage.cs",
+              "RelativeToolTip": "HW8\\Database\\Storage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:14:09.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenderEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Enums\\GenderEnum.cs",
+              "RelativeDocumentMoniker": "HW8\\Enums\\GenderEnum.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Enums\\GenderEnum.cs",
+              "RelativeToolTip": "HW8\\Enums\\GenderEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:01:13.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Enums\\StudentStatusEnum.cs",
+              "RelativeDocumentMoniker": "HW8\\Enums\\StudentStatusEnum.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Enums\\StudentStatusEnum.cs",
+              "RelativeToolTip": "HW8\\Enums\\StudentStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:55:15.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "HW8\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\Student.cs",
+              "RelativeToolTip": "HW8\\Entities\\Student.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:47:19.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HW8\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Entities\\User.cs",
+              "RelativeToolTip": "HW8\\Entities\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:33:20.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Program.cs",
+              "RelativeDocumentMoniker": "HW8\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW8\\HW8\\Program.cs",
+              "RelativeToolTip": "HW8\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwJkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:21:00.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
